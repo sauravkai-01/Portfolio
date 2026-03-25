@@ -5,3 +5,6 @@ Persistent and methodical learner with strong expertise in computer science and 
 Skills
 
 • 	Programming Languages:  Python ,C++, Java, JavaScript, HTML, CSS
+• 	Web Development: Modern frontend interfaces, responsive design, UI/UX best practices
+•   Algorithms & Data Structures: Brute‑force and optimized solutions, stable partitioning, order‑preserving approaches
+• 	Java Collections: SortedSet, NavigableSet, Queue, HashSet, Iterator, ArrayList
