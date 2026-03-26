@@ -18,6 +18,10 @@ Skills :
 
 Education : 
 
-Bachelor of Technology (B.Tech) in Computer Science & Engineering "Acharya Institute of Technology" 
+• Bachelor of Technology (B.Tech) in Computer Science & Engineering "Acharya Institute of Technology" 
+
+• Class 12th Education : "A N college" choose PCM at BSEB with 72.6% marks  
+
+• Class 10th Education : "GYANODAYA GURUKUL" CBSE with 90.6% marks
 
 
