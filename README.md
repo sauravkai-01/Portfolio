@@ -24,4 +24,9 @@ Education :
 
 • Class 10th Education : "GYANODAYA GURUKUL" CBSE with 90.6% marks
 
+Online Learning & Certifications : 
+
+
+
+
 
