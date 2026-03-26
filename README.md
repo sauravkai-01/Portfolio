@@ -26,6 +26,10 @@ Education :
 
 Online Learning & Certifications : 
 
+• Coursera: Java Programming, System Design Principles
+
+• 	LeetCode Practice: Algorithmic problem‑solving, competitive programming
+
 
 
 
