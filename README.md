@@ -13,3 +13,11 @@ Skills :
 • 	Java Collections: SortedSet, NavigableSet, Queue, HashSet, Iterator, ArrayList
 
 • 	Version Control: Git workflows, branch conflict resolution, repository management
+
+• 	Java Collections: SortedSet, NavigableSet, Queue, HashSet, Iterator, ArrayList
+
+Education : 
+
+Bachelor of Technology (B.Tech) in Computer Science & Engineering "Acharya Institute of Technology" 
+
+
