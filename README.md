@@ -30,6 +30,12 @@ Online Learning & Certifications :
 
 • LeetCode Practice: Algorithmic problem‑solving, competitive programming
 
+Extracurricular & Hackathons
+
+• 	Participated in Unstop Hackathon events, focusing on scalable solutions and team collaboration.
+
+• 	Engaged in robotics projects (mechanical, electrical, civil engineering integration) to broaden technical exposure.
+
 
 
 
