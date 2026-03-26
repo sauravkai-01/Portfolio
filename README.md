@@ -26,9 +26,9 @@ Education :
 
 Online Learning & Certifications : 
 
-• Coursera: Java Programming, System Design Principles
+• Apna college : c++ , Java Programming, Artifical Intelligence & Machine Learning
 
-• 	LeetCode Practice: Algorithmic problem‑solving, competitive programming
+• LeetCode Practice: Algorithmic problem‑solving, competitive programming
 
 
 
