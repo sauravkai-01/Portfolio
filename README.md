@@ -30,6 +30,8 @@ Online Learning & Certifications :
 
 • LeetCode Practice: Algorithmic problem‑solving, competitive programming
 
+• [69c82dcaab1b4690700823e7] confirming Saurav Kumar’s completion of the Sigma C++ DSA course from Apna College.  
+
 Extracurricular & Hackathons
 
 • 	Participated in Unstop Hackathon events, focusing on scalable solutions and team collaboration.
