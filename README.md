@@ -26,8 +26,6 @@ Education :
 
 Online Learning & Certifications : 
 
-• Apna college : c++ , Java Programming, Artifical Intelligence & Machine Learning
-
 • LeetCode Practice: Algorithmic problem‑solving, competitive programming
 
 • Certificate ID[69c82dcaab1b4690700823e7] confirming Saurav Kumar’s completion of the Sigma C++ DSA course from Apna College.  
