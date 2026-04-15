@@ -32,7 +32,7 @@ Online Learning & Certifications :
 
 • Certificate ID[69b811bcf93e5634050cce5a] confirming Saurav Kumar’s completion of the Sigma (DSA with Java) course from Apna College. 
 
-• Certificate ID [sigma-webdev-1441333927] confirming Saurav Kumar’s completion of the Sigma (Full Stack Web Development) course from Apna College.
+• Certificate ID [69dcf5ed6343591aa806eb86] confirming Saurav Kumar’s completion of the Sigma (Full Stack Web Development) course from Apna College.
 
 Extracurricular & Hackathons
 
