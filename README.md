@@ -14,14 +14,10 @@ Education :
 • Class 12th Education : "A N college" choose PCM at BSEB with 72.6% marks  
 • Class 10th Education : "GYANODAYA GURUKUL" CBSE with 90.6% marks
 
-Online Learning & Certifications : 
-
-• LeetCode Practice: Algorithmic problem‑solving, competitive programming
-
-• Certificate ID[69c82dcaab1b4690700823e7] confirming Saurav Kumar’s completion of the Sigma C++ DSA course from Apna College.  
-
-• Certificate ID[69b811bcf93e5634050cce5a] confirming Saurav Kumar’s completion of the Sigma (DSA with Java) course from Apna College. 
-
+Online Learning & Certifications :  
+• LeetCode Practice: Algorithmic problem‑solving, competitive programming  
+• Certificate ID[69c82dcaab1b4690700823e7] confirming Saurav Kumar’s completion of the Sigma C++ DSA course from Apna College.   
+• Certificate ID[69b811bcf93e5634050cce5a] confirming Saurav Kumar’s completion of the Sigma (DSA with Java) course from Apna College.  
 • Certificate ID [69dcf5ed6343591aa806eb86] confirming Saurav Kumar’s completion of the Sigma (Full Stack Web Development) course from Apna College.
 
 Extracurricular & Hackathons
