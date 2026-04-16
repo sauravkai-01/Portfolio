@@ -20,5 +20,4 @@ Online Learning & Certifications :
 • Certificate ID [69dcf5ed6343591aa806eb86] confirming Saurav Kumar’s completion of the Sigma (Full Stack Web Development) course from Apna College.
 
 Extracurricular & Hackathons :  
-• Participated in Unstop Hackathon events, focusing on scalable solutions and team collaboration.  
-• Engaged in robotics projects (mechanical, electrical, civil engineering integration) to broaden technical exposure.
+
