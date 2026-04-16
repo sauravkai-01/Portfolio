@@ -20,4 +20,6 @@ Online Learning & Certifications :
 • Certificate ID [69dcf5ed6343591aa806eb86] confirming Saurav Kumar’s completion of the Sigma (Full Stack Web Development) course from Apna College.
 
 Extracurricular & Hackathons :  
-
+Hack-A-League 4.0 | Hackathon Feb 2026 - Bangalore, India   
+Global Academy Of Technology Officially acknowledge the participation of Saurav Kumar, a student from AIT Bangalore, in the 24-hour "Hack-A-League 4.0" hackathon that was 
+organised by the Global Academy of Technology.   
