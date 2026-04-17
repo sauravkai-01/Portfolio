@@ -27,3 +27,8 @@ Extracurricular & Hackathons :
 • Next-Generation Cloud Computing & AWS Industry | Workshop - Acharya Institute Of Technology      
  Prepared students for industry readiness in cloud computing and AWS.  
  Participated in a five-day training programme on advanced cloud computing and AWS, officially recognised by the institute. 
+
+• Data Analytics Job Simulation | Deloitte (Via Forage)  
+ Successfully engaged in a professional job simulation emphasising data analysis and forensic technology.  
+ Showcased expertise in deriving insights from complex datasets and articulating findings clearly.  
+ Earned recognition through a certificate endorsed by Deloitte’s chief human resources officer for demonstrated industry-relevant competencies.   
