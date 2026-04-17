@@ -31,4 +31,7 @@ Extracurricular & Hackathons :
 • Data Analytics Job Simulation | Deloitte (Via Forage)  
  Successfully engaged in a professional job simulation emphasising data analysis and forensic technology.  
  Showcased expertise in deriving insights from complex datasets and articulating findings clearly.  
- Earned recognition through a certificate endorsed by Deloitte’s chief human resources officer for demonstrated industry-relevant competencies.   
+ Earned recognition through a certificate endorsed by Deloitte’s chief human resources officer for demonstrated industry-relevant competencies.  
+
+Project :
+SecureVault – Encrypted File & Message Sharing | GitHub Feb 2026: Node.js, Express, React, PostgreSQL, AES-256-GCM, OpenAI   
