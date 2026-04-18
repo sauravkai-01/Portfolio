@@ -37,3 +37,9 @@ Project :
 SecureVault – Encrypted File & Message Sharing | GitHub Feb 2026: Node.js, Express, React, PostgreSQL, AES-256-GCM, OpenAI  
 Built a full-stack web app for securely encrypting and sharing files and messages. Implemented AES-256-GCM encryption with PBKDF2 key derivation,ensuring passwords are never stored.  
 Features include time-limited access links (5-min expiry), 4-digit access codes, QR code generation, and AI-powered text summarisation via GPT-4o. Includes SHA-256 + HMAC integrity ification and automatic cleanup of expired data.  
+
+Links :  
+LEETCODE : https://leetcode.com/u/saurav_kai/  
+GITHUB : https://github.com/sauravkai-01  
+LINKEDIN : https://www.linkedin.com/in/saurav-kumar11008 
+
