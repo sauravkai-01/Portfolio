@@ -1,6 +1,6 @@
 About Me :  
 Computer science engineering student with experience in frontend and backend technologies. Proficient in React.js and Node.js, demonstrating strong problem-solving abilities with over 400+ LeetCode problems. Committed to supporting dynamic software projects and fostering collaborative success.  
-
+ 
 Skills :  
 • Languages: C++, Java, Python, JavaScript, SQL, HTML5, CSS3   
 • Backend: Spring Boot, Express.js, Node.js, Django, Flask   
