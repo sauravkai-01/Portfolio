@@ -1,0 +1,77 @@
+No problem! Here is the exact step-by-step process to deploy your Vite React portfolio to GitHub Pages. 
+
+### Step 1: Create a GitHub Repository
+1. Go to [GitHub.com](https://github.com/new) and log in.
+2. Create a new repository named **`portfolio`**.
+3. Leave it Public and do **not** add a README, .gitignore, or license.
+4. Copy your repository's URL (e.g., `https://github.com/sauravkai-01/portfolio.git`).
+
+---
+
+### Step 2: Initialize Git and Push Your Code
+Open your terminal inside your `d:\portfolio` folder and run these commands one by one (replace the URL in the third command with your actual repository URL):
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/sauravkai-01/portfolio.git
+git push -u origin main
+```
+
+---
+
+### Step 3: Install the Deployment Tool
+In the same terminal, install the package that will handle the deployment:
+
+```bash
+npm install gh-pages --save-dev
+```
+
+---
+
+### Step 4: Update Your Config Files
+You need to make two small edits to your project files so GitHub Pages knows how to serve your app.
+
+**1. Open `vite.config.js`** and add the `base` property with your repository name. It should look like this:
+```javascript
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+export default defineConfig({
+  plugins: [react()],
+  base: "/portfolio/"    // Add this line! Make sure it matches your repo name
+})
+```
+
+**2. Open `package.json`** and add the `homepage` URL at the top, and the `predeploy` and `deploy` commands in your scripts. It should look like this:
+```json
+{
+  "name": "portfolio-app",
+  "private": true,
+  "version": "0.0.0",
+  "homepage": "https://sauravkai-01.github.io/portfolio/", 
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  // ... rest of the file
+}
+```
+
+---
+
+### Step 5: Deploy!
+Once you have saved the changes to those two files, go back to your terminal and run:
+
+```bash
+npm run deploy
+```
+
+This will build your project and push it to a special `gh-pages` branch on GitHub. Give it a minute or two, and your portfolio will be live at `https://sauravkai-01.github.io/portfolio/`!
